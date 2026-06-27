@@ -77,14 +77,11 @@ Eco-Light-Maestro/
 │   ├── defines.h
 │   └── ...
 │
-├── Documents
-│   └── Project Report.pdf
-│
 ├── Images
-│   ├── Block_Diagram.png
-│   ├── Circuit_Diagram.png
-│   ├── Hardware_Setup.jpg
-│   └── LCD_Output.jpg
+│   ├── proteus1.png
+│   ├── proteus2.png
+│   ├── image1.jpg
+│   └── image2.jpg
 │
 └── README.md
 ```
